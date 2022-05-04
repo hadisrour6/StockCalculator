@@ -9,9 +9,6 @@ root.resizable(0, 0)
 root.title("Stock Calculator")
 root['bg'] = 'white'
 
-background = PhotoImage(file="Logo.png")
-bgLabel = Label(root, image=background)
-
 tabControl = Notebook(root)
 
 tab1 = Frame(tabControl)
