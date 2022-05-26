@@ -20,8 +20,21 @@ As Shown below:
 
 
 ## Requirments
+Install Python 3.6 or above. 
 
-Must have python installed
+Run 
+```python
+pip install -r requirements.txt
+```
+to install dependencies.
+
+To configure the DISCORD_TOKEN, there are two options: Create a .env in root and set DISCORD_TOKEN='YOUR TOKEN', or configure it in CONFIG.py and edit the comments in bot.py.
+
+Edit the other TOKENS with your own tokens in CONFIG.py.
+
+Run the bot with python3 bot.py.
+Python 3.7 and over 
+
 
 Python Libraries used: tkinter, Notebook, customtkinter
 
