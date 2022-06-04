@@ -1,3 +1,7 @@
+
+# Note
+This repo contains unmaintened code
+
 # Stock Calculator
 
 A modern python GUI that gives users access to two calculators, a profit/loss calculator and an average up/down stock price calculator
